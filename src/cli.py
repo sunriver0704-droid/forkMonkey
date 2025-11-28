@@ -271,14 +271,16 @@ def update_readme():
     
     readme = readme_file.read_text()
     
-    # Generate SVG
-    svg = MonkeyVisualizer.generate_svg(dna, width=300, height=300)
+    # Generate SVG and save it
+    svg = MonkeyVisualizer.generate_svg(dna, width=400, height=400)
+    svg_file = Path("monkey_data/monkey.svg")
+    svg_file.write_text(svg)
     
-    # Update monkey display section
-    monkey_section = f'''<!-- MONKEY_DISPLAY_START -->
+    # Update monkey display section with image reference
+    monkey_section = '''<!-- MONKEY_DISPLAY_START -->
 <div align="center">
 
-{svg}
+![Your Monkey](monkey_data/monkey.svg)
 
 </div>
 <!-- MONKEY_DISPLAY_END -->'''
