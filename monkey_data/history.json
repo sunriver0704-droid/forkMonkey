@@ -703,6 +703,22 @@
         "special": "shadow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-28T04:13:58.107743",
+      "dna_hash": "81a6349e6e248562",
+      "generation": 2,
+      "mutation_count": 7,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "mischievous",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "sunset",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: wise \u2192 mischievous"
     }
   ]
 }
