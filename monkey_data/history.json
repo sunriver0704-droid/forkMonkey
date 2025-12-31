@@ -751,6 +751,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: face_expression: mischievous \u2192 wise"
+    },
+    {
+      "timestamp": "2025-12-31T03:56:07.874561",
+      "dna_hash": "0391a8174e364c22",
+      "generation": 2,
+      "mutation_count": 10,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "sunset",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
