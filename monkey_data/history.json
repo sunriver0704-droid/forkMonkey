@@ -783,6 +783,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: face_expression: wise \u2192 surprised, accessory: simple_hat \u2192 headphones"
+    },
+    {
+      "timestamp": "2026-01-02T03:58:47.946167",
+      "dna_hash": "c124a170526b2882",
+      "generation": 2,
+      "mutation_count": 12,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "headphones",
+        "pattern": "solid",
+        "background": "sunset",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
