@@ -959,6 +959,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: pattern: solid \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-01-13T01:01:22.593929",
+      "dna_hash": "5fbf996576e4f855",
+      "generation": 2,
+      "mutation_count": 18,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "winking",
+        "accessory": "headphones",
+        "pattern": "gradient",
+        "background": "sunset",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
