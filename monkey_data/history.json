@@ -1055,6 +1055,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: pattern: gradient \u2192 solid"
+    },
+    {
+      "timestamp": "2026-01-19T01:09:12.643814",
+      "dna_hash": "d5a05438b10d8929",
+      "generation": 2,
+      "mutation_count": 23,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "headphones",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: background: blue_sky \u2192 green_grass"
     }
   ]
 }
