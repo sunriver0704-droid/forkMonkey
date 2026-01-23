@@ -1119,6 +1119,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: face_expression: winking \u2192 cool, pattern: solid \u2192 spots"
+    },
+    {
+      "timestamp": "2026-01-23T01:06:22.157169",
+      "dna_hash": "28cdfce236f51b63",
+      "generation": 2,
+      "mutation_count": 28,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "cool",
+        "accessory": "headphones",
+        "pattern": "spots",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: sunglasses \u2192 headphones"
     }
   ]
 }

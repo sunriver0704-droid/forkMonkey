@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "6b5999c307252477",
-  "dna_hash": "b8516304125ee6be",
-  "mutation_count": 27,
+  "dna_hash": "28cdfce236f51b63",
+  "mutation_count": 28,
   "birth_timestamp": 998543,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "abb5bfe3"
     },
     "accessory": {
-      "value": "sunglasses",
+      "value": "headphones",
       "rarity": "uncommon",
-      "gene_sequence": "128d27c9"
+      "gene_sequence": "c1193660"
     },
     "pattern": {
       "value": "spots",
