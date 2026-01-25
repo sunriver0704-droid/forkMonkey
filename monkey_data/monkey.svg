@@ -59,7 +59,6 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFF0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="236" cy="128" r="12" fill="#000" opacity="0.12"/><circle cx="182" cy="146" r="12" fill="#000" opacity="0.12"/><circle cx="128" cy="164" r="12" fill="#000" opacity="0.12"/><circle cx="254" cy="182" r="12" fill="#000" opacity="0.12"/><circle cx="200" cy="200" r="12" fill="#000" opacity="0.12"/><circle cx="146" cy="218" r="12" fill="#000" opacity="0.12"/><circle cx="272" cy="236" r="12" fill="#000" opacity="0.12"/><circle cx="218" cy="254" r="12" fill="#000" opacity="0.12"/><circle cx="164" cy="272" r="12" fill="#000" opacity="0.12"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -81,8 +80,8 @@
 <path d="M178 265 Q200 260 225 252" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <line x1="150" y1="155" x2="174" y2="161" stroke="#5D2E0C" stroke-width="3"/>
 <line x1="226" y1="161" x2="250" y2="155" stroke="#5D2E0C" stroke-width="3"/>
-<path d="M125 170 Q125 100 200 90 Q275 100 275 170" stroke="#333" stroke-width="8" fill="none"/><rect x="115" y="155" width="25" height="40" rx="5" fill="#333"/><rect x="260" y="155" width="25" height="40" rx="5" fill="#333"/>
-<ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
+<polygon points="200,10 145,85 255,85" fill="#4B0082"/><ellipse cx="200" cy="85" rx="65" ry="12" fill="#4B0082"/><text x="200" y="55" font-size="20" fill="#FFD700" text-anchor="middle">★</text>
+<text x="110" y="110" font-size="24" fill="#FFD700">✦</text><text x="290" y="110" font-size="24" fill="#FFD700">✦</text><text x="110" y="290" font-size="24" fill="#FFD700">✦</text><text x="290" y="290" font-size="24" fill="#FFD700">✦</text><text x="200" y="70" font-size="24" fill="#FFD700">✦</text>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
