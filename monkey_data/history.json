@@ -1183,6 +1183,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: pattern: solid \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-01-27T01:09:44.523733",
+      "dna_hash": "a2840a8e1f55ab5d",
+      "generation": 2,
+      "mutation_count": 33,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "cool",
+        "accessory": "wizard_hat",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: body_color: beige \u2192 gray"
     }
   ]
 }
