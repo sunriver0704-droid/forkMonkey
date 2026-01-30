@@ -1231,6 +1231,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: face_expression: cool \u2192 wise"
+    },
+    {
+      "timestamp": "2026-01-30T01:15:06.954638",
+      "dna_hash": "2512ed622c317433",
+      "generation": 2,
+      "mutation_count": 35,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "wise",
+        "accessory": "wizard_hat",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: special: sparkles \u2192 shadow"
     }
   ]
 }
