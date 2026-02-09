@@ -1391,6 +1391,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: body_color: gray \u2192 beige, pattern: gradient \u2192 spots"
+    },
+    {
+      "timestamp": "2026-02-09T01:21:04.647572",
+      "dna_hash": "be34b30fc16a76b0",
+      "generation": 2,
+      "mutation_count": 40,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "surprised",
+        "accessory": "jetpack",
+        "pattern": "spots",
+        "background": "sunset",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: wizard_hat \u2192 jetpack"
     }
   ]
 }
