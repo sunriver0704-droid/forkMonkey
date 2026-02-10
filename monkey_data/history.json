@@ -1407,6 +1407,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: accessory: wizard_hat \u2192 jetpack"
+    },
+    {
+      "timestamp": "2026-02-10T01:29:43.469803",
+      "dna_hash": "7c31641dadd60db0",
+      "generation": 2,
+      "mutation_count": 41,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "zen",
+        "accessory": "jetpack",
+        "pattern": "spots",
+        "background": "sunset",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: surprised \u2192 zen"
     }
   ]
 }
