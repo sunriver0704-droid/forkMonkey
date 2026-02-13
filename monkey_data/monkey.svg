@@ -49,7 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#sunset-gradient)"/>
+<rect width="400" height="400" fill="url(#grass-gradient)"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFF0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="289" cy="237" r="12" fill="#000" opacity="0.12"/><circle cx="288" cy="184" r="12" fill="#000" opacity="0.12"/><circle cx="287" cy="131" r="12" fill="#000" opacity="0.12"/><circle cx="286" cy="258" r="12" fill="#000" opacity="0.12"/><circle cx="285" cy="205" r="12" fill="#000" opacity="0.12"/><circle cx="284" cy="152" r="12" fill="#000" opacity="0.12"/><circle cx="283" cy="279" r="12" fill="#000" opacity="0.12"/><circle cx="282" cy="226" r="12" fill="#000" opacity="0.12"/><circle cx="281" cy="173" r="12" fill="#000" opacity="0.12"/></g>
+<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="276" cy="268" r="12" fill="#000" opacity="0.12"/><circle cx="262" cy="246" r="12" fill="#000" opacity="0.12"/><circle cx="248" cy="224" r="12" fill="#000" opacity="0.12"/><circle cx="234" cy="202" r="12" fill="#000" opacity="0.12"/><circle cx="220" cy="180" r="12" fill="#000" opacity="0.12"/><circle cx="206" cy="158" r="12" fill="#000" opacity="0.12"/><circle cx="192" cy="136" r="12" fill="#000" opacity="0.12"/><circle cx="178" cy="114" r="12" fill="#000" opacity="0.12"/><circle cx="164" cy="272" r="12" fill="#000" opacity="0.12"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
