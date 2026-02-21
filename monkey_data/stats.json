@@ -1,21 +1,21 @@
 {
-  "dna_hash": "f814caa4b50b34ef",
+  "dna_hash": "8d46d9dbe98789d7",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 44,
-  "rarity_score": 35.0,
+  "mutation_count": 46,
+  "rarity_score": 36.666666666666664,
   "parent_id": "6b5999c307252477",
   "traits": {
     "body_color": {
-      "value": "beige",
-      "rarity": "common"
+      "value": "bronze",
+      "rarity": "uncommon"
     },
     "face_expression": {
       "value": "zen",
       "rarity": "rare"
     },
     "accessory": {
-      "value": "golden_crown",
+      "value": "jetpack",
       "rarity": "legendary"
     },
     "pattern": {
@@ -31,5 +31,5 @@
       "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-02-20T01:16:25.918821"
+  "last_updated": "2026-02-21T01:14:01.276915"
 }
