@@ -1599,6 +1599,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: body_color: beige \u2192 bronze, accessory: golden_crown \u2192 jetpack"
+    },
+    {
+      "timestamp": "2026-02-22T01:19:53.644318",
+      "dna_hash": "8d46d9dbe98789d7",
+      "generation": 2,
+      "mutation_count": 46,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "zen",
+        "accessory": "jetpack",
+        "pattern": "stars",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
