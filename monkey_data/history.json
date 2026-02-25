@@ -1647,6 +1647,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-02-25T01:22:20.093455",
+      "dna_hash": "10909e225c8543dd",
+      "generation": 2,
+      "mutation_count": 48,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "zen",
+        "accessory": "wings",
+        "pattern": "stars",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: jetpack \u2192 wings"
     }
   ]
 }
