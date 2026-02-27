@@ -1679,6 +1679,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-02-27T01:15:34.109430",
+      "dna_hash": "48c7d0f503a93d92",
+      "generation": 2,
+      "mutation_count": 49,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "zen",
+        "accessory": "wings",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: stars \u2192 hearts"
     }
   ]
 }
