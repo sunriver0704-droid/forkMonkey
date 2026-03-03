@@ -1743,6 +1743,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-03-03T01:20:07.349289",
+      "dna_hash": "e828223748e871d1",
+      "generation": 2,
+      "mutation_count": 50,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "winking",
+        "accessory": "wings",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: zen \u2192 winking"
     }
   ]
 }
