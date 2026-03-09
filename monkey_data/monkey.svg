@@ -51,15 +51,15 @@
 </defs>
 <rect width="400" height="400" fill="url(#sky-gradient)"/>
 
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="#FFD700" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="#D2B48C" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="#FFD700" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="#D2B48C" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="#FFD700" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFEC8B" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="216" y="212" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="162" y="154" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="248" y="236" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="194" y="178" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="140" y="260" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="226" y="202" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="#D2B48C" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#E8D4B8" opacity="0.3"/>
+<g clip-path="url(#head-clip)"><text x="130" y="130" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="250" y="150" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="230" y="170" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="210" y="190" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="190" y="210" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="170" y="230" font-size="16" fill="#FF69B4" opacity="0.4">♥</text><text x="150" y="250" font-size="16" fill="#FF69B4" opacity="0.4">♥</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
