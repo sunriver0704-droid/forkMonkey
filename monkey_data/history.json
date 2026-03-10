@@ -1855,6 +1855,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: body_color: golden \u2192 tan"
+    },
+    {
+      "timestamp": "2026-03-10T01:13:10.286055",
+      "dna_hash": "1c5ff1893a858a51",
+      "generation": 2,
+      "mutation_count": 55,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "curious",
+        "accessory": "wings",
+        "pattern": "hearts",
+        "background": "blue_sky",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: excited \u2192 curious"
     }
   ]
 }
