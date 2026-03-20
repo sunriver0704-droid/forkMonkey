@@ -2015,6 +2015,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-03-20T01:17:59.408360",
+      "dna_hash": "8c771667cbabc47c",
+      "generation": 2,
+      "mutation_count": 64,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "happy",
+        "accessory": "wizard_hat",
+        "pattern": "diamonds",
+        "background": "blue_sky",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: accessory: laser_eyes \u2192 wizard_hat, special: glow \u2192 sparkles"
     }
   ]
 }
