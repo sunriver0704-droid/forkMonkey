@@ -2079,6 +2079,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: special: sparkles \u2192 shadow"
+    },
+    {
+      "timestamp": "2026-03-24T01:16:27.806779",
+      "dna_hash": "ff37a35f32f731ac",
+      "generation": 2,
+      "mutation_count": 67,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "happy",
+        "accessory": "laser_eyes",
+        "pattern": "diamonds",
+        "background": "blue_sky",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: wizard_hat \u2192 laser_eyes"
     }
   ]
 }
