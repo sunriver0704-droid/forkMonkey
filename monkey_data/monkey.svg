@@ -49,7 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#sky-gradient)"/>
+<rect width="400" height="400" fill="url(#grass-gradient)"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -80,7 +80,7 @@
         </g>
 <path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
 <line x1="162" y1="185" x2="50" y2="250" stroke="#FF0000" stroke-width="4" opacity="0.7"/><line x1="238" y1="185" x2="350" y2="250" stroke="#FF0000" stroke-width="4" opacity="0.7"/>
-<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="215" cy="235" r="3" fill="#FFD700" opacity="0.6"/><circle cx="130" cy="170" r="3" fill="#FFD700" opacity="0.6"/><circle cx="245" cy="105" r="3" fill="#FFD700" opacity="0.6"/><circle cx="160" cy="240" r="3" fill="#FFD700" opacity="0.6"/><circle cx="275" cy="175" r="3" fill="#FFD700" opacity="0.6"/><circle cx="190" cy="110" r="3" fill="#FFD700" opacity="0.6"/><circle cx="105" cy="245" r="3" fill="#FFD700" opacity="0.6"/><circle cx="220" cy="180" r="3" fill="#FFD700" opacity="0.6"/><circle cx="135" cy="115" r="3" fill="#FFD700" opacity="0.6"/><circle cx="250" cy="250" r="3" fill="#FFD700" opacity="0.6"/><circle cx="165" cy="185" r="3" fill="#FFD700" opacity="0.6"/>
+<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="129" cy="261" r="3" fill="#FFD700" opacity="0.6"/><circle cx="158" cy="222" r="3" fill="#FFD700" opacity="0.6"/><circle cx="187" cy="183" r="3" fill="#FFD700" opacity="0.6"/><circle cx="216" cy="144" r="3" fill="#FFD700" opacity="0.6"/><circle cx="245" cy="105" r="3" fill="#FFD700" opacity="0.6"/><circle cx="274" cy="266" r="3" fill="#FFD700" opacity="0.6"/><circle cx="103" cy="227" r="3" fill="#FFD700" opacity="0.6"/><circle cx="132" cy="188" r="3" fill="#FFD700" opacity="0.6"/><circle cx="161" cy="149" r="3" fill="#FFD700" opacity="0.6"/><circle cx="190" cy="110" r="3" fill="#FFD700" opacity="0.6"/><circle cx="219" cy="271" r="3" fill="#FFD700" opacity="0.6"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
