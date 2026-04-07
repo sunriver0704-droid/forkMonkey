@@ -2303,6 +2303,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: face_expression: happy \u2192 cool, pattern: stripes \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-04-07T01:28:30.858052",
+      "dna_hash": "81c1db08aeb28ff8",
+      "generation": 2,
+      "mutation_count": 76,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "cool",
+        "accessory": "laser_eyes",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "particles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
