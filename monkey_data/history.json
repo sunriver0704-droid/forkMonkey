@@ -2367,6 +2367,22 @@
         "special": "particles"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-04-11T01:24:39.464647",
+      "dna_hash": "9405d9075d56d781",
+      "generation": 2,
+      "mutation_count": 79,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "cool",
+        "accessory": "horns",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: accessory: laser_eyes \u2192 horns, special: particles \u2192 aura"
     }
   ]
 }
