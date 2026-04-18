@@ -2479,6 +2479,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: pattern: hearts \u2192 swirls"
+    },
+    {
+      "timestamp": "2026-04-18T01:27:07.855683",
+      "dna_hash": "dc50709de597d6bd",
+      "generation": 2,
+      "mutation_count": 83,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "mischievous",
+        "accessory": "crown",
+        "pattern": "swirls",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: accessory: horns \u2192 crown"
     }
   ]
 }
