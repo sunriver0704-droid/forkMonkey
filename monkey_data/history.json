@@ -2543,6 +2543,22 @@
         "special": "aura"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-04-22T01:47:46.865008",
+      "dna_hash": "bcc69a79d38abcef",
+      "generation": 2,
+      "mutation_count": 84,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "wise",
+        "accessory": "crown",
+        "pattern": "swirls",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: mischievous \u2192 wise"
     }
   ]
 }
