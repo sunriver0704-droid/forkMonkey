@@ -2559,6 +2559,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: face_expression: mischievous \u2192 wise"
+    },
+    {
+      "timestamp": "2026-04-23T01:52:03.509703",
+      "dna_hash": "0f515ab0e77175ed",
+      "generation": 2,
+      "mutation_count": 85,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "wise",
+        "accessory": "bandana",
+        "pattern": "swirls",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: accessory: crown \u2192 bandana"
     }
   ]
 }
