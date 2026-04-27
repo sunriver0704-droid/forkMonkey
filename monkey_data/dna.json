@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "6b5999c307252477",
-  "dna_hash": "d92f6651199c2764",
-  "mutation_count": 86,
+  "dna_hash": "1110c09bbe1ef647",
+  "mutation_count": 87,
   "birth_timestamp": 998543,
   "traits": {
     "body_color": {
@@ -21,9 +21,9 @@
       "gene_sequence": "eef7e9dc"
     },
     "pattern": {
-      "value": "swirls",
+      "value": "stars",
       "rarity": "uncommon",
-      "gene_sequence": "77089b66"
+      "gene_sequence": "67a8d2be"
     },
     "background": {
       "value": "green_grass",
