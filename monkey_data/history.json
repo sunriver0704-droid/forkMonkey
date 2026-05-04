@@ -2735,6 +2735,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: accessory: bandana \u2192 bow"
+    },
+    {
+      "timestamp": "2026-05-04T02:01:46.487602",
+      "dna_hash": "3f7b175ee9eed540",
+      "generation": 2,
+      "mutation_count": 90,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "excited",
+        "accessory": "bow",
+        "pattern": "stars",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: cool \u2192 excited"
     }
   ]
 }
