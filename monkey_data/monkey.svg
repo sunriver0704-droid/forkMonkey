@@ -49,7 +49,7 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#grass-gradient)"/>
+<rect width="400" height="400" fill="#F8F9FA"/>
 <circle cx="200" cy="200" r="160" fill="none" stroke="#9400D3" stroke-width="4" opacity="0.3"/><circle cx="200" cy="200" r="175" fill="none" stroke="#4B0082" stroke-width="2" opacity="0.2"/>
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFF0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="254" y="246" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="228" y="212" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="202" y="178" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="176" y="144" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="150" y="270" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="124" y="236" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="258" y="202" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
+<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="205" y="145" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="130" y="170" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="215" y="195" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="140" y="220" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="225" y="245" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="150" y="270" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="235" y="135" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
