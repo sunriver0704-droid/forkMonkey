@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "6b5999c307252477",
-  "dna_hash": "9a7d6ec99a657b17",
-  "mutation_count": 92,
+  "dna_hash": "4ca672c28b392bdc",
+  "mutation_count": 93,
   "birth_timestamp": 998543,
   "traits": {
     "body_color": {
@@ -31,9 +31,9 @@
       "gene_sequence": "b91761d7"
     },
     "special": {
-      "value": "aura",
+      "value": "particles",
       "rarity": "rare",
-      "gene_sequence": "3a5b2f57"
+      "gene_sequence": "65e997af"
     }
   },
   "rarity_score": 20.0
