@@ -2911,6 +2911,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: special: aura \u2192 particles"
+    },
+    {
+      "timestamp": "2026-05-15T02:14:54.209783",
+      "dna_hash": "4ca672c28b392bdc",
+      "generation": 2,
+      "mutation_count": 93,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "excited",
+        "accessory": "bow",
+        "pattern": "stars",
+        "background": "white",
+        "special": "particles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
