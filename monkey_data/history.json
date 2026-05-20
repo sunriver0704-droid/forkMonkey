@@ -2991,6 +2991,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: accessory: bow \u2192 bandana"
+    },
+    {
+      "timestamp": "2026-05-20T02:30:58.424327",
+      "dna_hash": "fe54c65345e27a38",
+      "generation": 2,
+      "mutation_count": 95,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "excited",
+        "accessory": "bandana",
+        "pattern": "diamonds",
+        "background": "white",
+        "special": "particles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
