@@ -112,7 +112,7 @@ If you prefer to use Claude:
 
 <!-- MONKEY_STATS_START -->
 - **Generation**: 2
-- **Age**: 209 days
+- **Age**: 210 days
 - **Mutations**: 107
 - **Rarity Score**: 16.7/100
 <!-- MONKEY_STATS_END -->
