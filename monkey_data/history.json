@@ -3423,6 +3423,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: face_expression: neutral \u2192 wise"
+    },
+    {
+      "timestamp": "2026-06-16T02:52:19.967953",
+      "dna_hash": "633f401c3a41ea6b",
+      "generation": 2,
+      "mutation_count": 109,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "wise",
+        "accessory": "bow",
+        "pattern": "spots",
+        "background": "green_grass",
+        "special": "particles"
+      },
+      "story": "Your monkey evolved! Changes: accessory: bandana \u2192 bow"
     }
   ]
 }
