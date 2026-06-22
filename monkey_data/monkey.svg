@@ -81,7 +81,7 @@
 <line x1="150" y1="158" x2="174" y2="158" stroke="#5D2E0C" stroke-width="2"/>
 <line x1="226" y1="158" x2="250" y2="158" stroke="#5D2E0C" stroke-width="2"/>
 <ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
-<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="262" cy="158" r="3" fill="#FFD700" opacity="0.6"/><circle cx="224" cy="216" r="3" fill="#FFD700" opacity="0.6"/><circle cx="186" cy="274" r="3" fill="#FFD700" opacity="0.6"/><circle cx="148" cy="132" r="3" fill="#FFD700" opacity="0.6"/><circle cx="110" cy="190" r="3" fill="#FFD700" opacity="0.6"/><circle cx="272" cy="248" r="3" fill="#FFD700" opacity="0.6"/><circle cx="234" cy="106" r="3" fill="#FFD700" opacity="0.6"/><circle cx="196" cy="164" r="3" fill="#FFD700" opacity="0.6"/><circle cx="158" cy="222" r="3" fill="#FFD700" opacity="0.6"/><circle cx="120" cy="280" r="3" fill="#FFD700" opacity="0.6"/><circle cx="282" cy="138" r="3" fill="#FFD700" opacity="0.6"/>
+<ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
