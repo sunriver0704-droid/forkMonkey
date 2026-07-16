@@ -3903,6 +3903,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: pattern: spots \u2192 stripes"
+    },
+    {
+      "timestamp": "2026-07-16T01:48:37.315029",
+      "dna_hash": "7f67c83e995e3a85",
+      "generation": 2,
+      "mutation_count": 123,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "surprised",
+        "accessory": "bow",
+        "pattern": "stripes",
+        "background": "green_grass",
+        "special": "shadow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
