@@ -4111,6 +4111,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-29T01:47:25.961122",
+      "dna_hash": "2ec3f6612960e99c",
+      "generation": 2,
+      "mutation_count": 130,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "spots",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: surprised \u2192 wise, accessory: bandana \u2192 monocle"
     }
   ]
 }
