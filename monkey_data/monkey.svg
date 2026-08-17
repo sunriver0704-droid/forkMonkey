@@ -52,14 +52,14 @@
 <rect width="400" height="400" fill="#1A4D1A"/>
 <polygon points="40,380 20,380 40,330" fill="#0D3D0D" opacity="0.5"/>
 <polygon points="40,380 60,380 40,330" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="120,380 100,380 120,322" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="120,380 140,380 120,322" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="200,380 180,380 200,314" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="200,380 220,380 200,314" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="280,380 260,380 280,306" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="280,380 300,380 280,306" fill="#1A5C1A" opacity="0.5"/>
-<polygon points="360,380 340,380 360,328" fill="#0D3D0D" opacity="0.5"/>
-<polygon points="360,380 380,380 360,328" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="120,380 100,380 120,324" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="120,380 140,380 120,324" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="200,380 180,380 200,318" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="200,380 220,380 200,318" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="280,380 260,380 280,312" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="280,380 300,380 280,312" fill="#1A5C1A" opacity="0.5"/>
+<polygon points="360,380 340,380 360,306" fill="#0D3D0D" opacity="0.5"/>
+<polygon points="360,380 380,380 360,306" fill="#1A5C1A" opacity="0.5"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#B87333" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -69,7 +69,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#B87333" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#D4A574" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="166" cy="198" r="12" fill="#000" opacity="0.12"/><circle cx="222" cy="286" r="12" fill="#000" opacity="0.12"/><circle cx="278" cy="194" r="12" fill="#000" opacity="0.12"/><circle cx="154" cy="282" r="12" fill="#000" opacity="0.12"/><circle cx="210" cy="190" r="12" fill="#000" opacity="0.12"/><circle cx="266" cy="278" r="12" fill="#000" opacity="0.12"/><circle cx="142" cy="186" r="12" fill="#000" opacity="0.12"/><circle cx="198" cy="274" r="12" fill="#000" opacity="0.12"/><circle cx="254" cy="182" r="12" fill="#000" opacity="0.12"/></g>
+<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="212" cy="116" r="12" fill="#000" opacity="0.12"/><circle cx="134" cy="122" r="12" fill="#000" opacity="0.12"/><circle cx="236" cy="128" r="12" fill="#000" opacity="0.12"/><circle cx="158" cy="134" r="12" fill="#000" opacity="0.12"/><circle cx="260" cy="140" r="12" fill="#000" opacity="0.12"/><circle cx="182" cy="146" r="12" fill="#000" opacity="0.12"/><circle cx="284" cy="152" r="12" fill="#000" opacity="0.12"/><circle cx="206" cy="158" r="12" fill="#000" opacity="0.12"/><circle cx="128" cy="164" r="12" fill="#000" opacity="0.12"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -91,7 +91,7 @@
 <path d="M178 265 Q200 260 225 252" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <line x1="150" y1="155" x2="174" y2="161" stroke="#5D2E0C" stroke-width="3"/>
 <line x1="226" y1="161" x2="250" y2="155" stroke="#5D2E0C" stroke-width="3"/>
-<rect x="142" y="175" width="38" height="28" rx="4" fill="#000" opacity="0.85"/><rect x="220" y="175" width="38" height="28" rx="4" fill="#000" opacity="0.85"/><line x1="180" y1="189" x2="220" y2="189" stroke="#000" stroke-width="3"/><line x1="142" y1="189" x2="120" y2="180" stroke="#000" stroke-width="2"/><line x1="258" y1="189" x2="280" y2="180" stroke="#000" stroke-width="2"/>
+<path d="M125 170 Q125 100 200 90 Q275 100 275 170" stroke="#333" stroke-width="8" fill="none"/><rect x="115" y="155" width="25" height="40" rx="5" fill="#333"/><rect x="260" y="155" width="25" height="40" rx="5" fill="#333"/>
 <circle cx="200" cy="200" r="135" fill="none" stroke="#FFD700" stroke-width="6" opacity="0.25"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
