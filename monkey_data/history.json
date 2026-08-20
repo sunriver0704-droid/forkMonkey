@@ -4463,6 +4463,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: body_color: copper \u2192 golden"
+    },
+    {
+      "timestamp": "2026-08-20T00:42:16.377227",
+      "dna_hash": "5706d3f3eb09172c",
+      "generation": 2,
+      "mutation_count": 141,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "mischievous",
+        "accessory": "headphones",
+        "pattern": "spots",
+        "background": "beach",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: background: forest \u2192 beach"
     }
   ]
 }
