@@ -4479,6 +4479,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: background: forest \u2192 beach"
+    },
+    {
+      "timestamp": "2026-08-21T00:45:15.616066",
+      "dna_hash": "e726dd5b8488050b",
+      "generation": 2,
+      "mutation_count": 142,
+      "rarity_score": 18.333333333333332,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "mischievous",
+        "accessory": "headphones",
+        "pattern": "spots",
+        "background": "city",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: background: beach \u2192 city"
     }
   ]
 }
