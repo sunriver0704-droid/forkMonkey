@@ -4511,6 +4511,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: accessory: headphones \u2192 none"
+    },
+    {
+      "timestamp": "2026-08-23T00:46:08.116211",
+      "dna_hash": "e00a5ad7a44f23bc",
+      "generation": 2,
+      "mutation_count": 146,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "sleepy",
+        "accessory": "none",
+        "pattern": "gradient",
+        "background": "city",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: mischievous \u2192 sleepy, pattern: spots \u2192 gradient"
     }
   ]
 }
