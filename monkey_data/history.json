@@ -4607,6 +4607,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: pattern: hearts \u2192 diamonds"
+    },
+    {
+      "timestamp": "2026-08-29T04:53:17.559175",
+      "dna_hash": "edd0678c0a318b0c",
+      "generation": 2,
+      "mutation_count": 153,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "diamonds",
+        "background": "forest",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: sleepy \u2192 happy, background: city \u2192 forest, special: glow \u2192 shadow"
     }
   ]
 }
