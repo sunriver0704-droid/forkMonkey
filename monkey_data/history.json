@@ -4703,6 +4703,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: pattern: diamonds \u2192 flames, special: shadow \u2192 sparkles"
+    },
+    {
+      "timestamp": "2026-09-04T02:07:51.224348",
+      "dna_hash": "496b0d66426730f5",
+      "generation": 2,
+      "mutation_count": 160,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "flames",
+        "background": "mountains",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: accessory: headphones \u2192 none"
     }
   ]
 }
