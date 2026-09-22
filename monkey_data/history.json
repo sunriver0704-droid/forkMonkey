@@ -4991,6 +4991,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: face_expression: curious \u2192 happy"
+    },
+    {
+      "timestamp": "2026-09-22T02:32:17.032442",
+      "dna_hash": "0a376dba54922fd2",
+      "generation": 2,
+      "mutation_count": 172,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "stars",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
