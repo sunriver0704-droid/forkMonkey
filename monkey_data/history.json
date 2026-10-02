@@ -5151,6 +5151,22 @@
         "special": "aura"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-02T03:15:38.273522",
+      "dna_hash": "a63416fe997fba86",
+      "generation": 2,
+      "mutation_count": 178,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "happy",
+        "accessory": "headphones",
+        "pattern": "nebula",
+        "background": "green_grass",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: accessory: none \u2192 headphones, pattern: flames \u2192 nebula, special: aura \u2192 energy"
     }
   ]
 }
