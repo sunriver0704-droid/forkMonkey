@@ -5167,6 +5167,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: accessory: none \u2192 headphones, pattern: flames \u2192 nebula, special: aura \u2192 energy"
+    },
+    {
+      "timestamp": "2026-10-03T03:01:40.401534",
+      "dna_hash": "49eb93de2f0886b9",
+      "generation": 2,
+      "mutation_count": 179,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "happy",
+        "accessory": "sunglasses",
+        "pattern": "nebula",
+        "background": "green_grass",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: accessory: headphones \u2192 sunglasses"
     }
   ]
 }
