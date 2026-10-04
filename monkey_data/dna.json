@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "6b5999c307252477",
-  "dna_hash": "49eb93de2f0886b9",
-  "mutation_count": 179,
+  "dna_hash": "ec45d9204683575d",
+  "mutation_count": 180,
   "birth_timestamp": 998543,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "84ed1537"
     },
     "accessory": {
-      "value": "sunglasses",
+      "value": "monocle",
       "rarity": "uncommon",
-      "gene_sequence": "128d27c9"
+      "gene_sequence": "4b7e2599"
     },
     "pattern": {
       "value": "nebula",

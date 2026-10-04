@@ -5183,6 +5183,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: accessory: headphones \u2192 sunglasses"
+    },
+    {
+      "timestamp": "2026-10-04T03:30:44.451616",
+      "dna_hash": "ec45d9204683575d",
+      "generation": 2,
+      "mutation_count": 180,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "happy",
+        "accessory": "monocle",
+        "pattern": "nebula",
+        "background": "green_grass",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: accessory: sunglasses \u2192 monocle"
     }
   ]
 }
