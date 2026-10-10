@@ -50,7 +50,7 @@
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
 <rect width="400" height="400" fill="url(#sunset-gradient)"/>
-<circle cx="200" cy="200" r="180" fill="url(#multiverse-gradient)" opacity="0.15"/>
+
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#holo-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
@@ -80,10 +80,10 @@
         </g>
 <path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
 
-<circle cx="200" cy="200" r="155" fill="none" stroke="#FF00FF" stroke-width="3" opacity="0.4" filter="url(#glow)"/><circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="2" opacity="0.3"/>
+<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="263" cy="267" r="3" fill="#FFD700" opacity="0.6"/><circle cx="226" cy="234" r="3" fill="#FFD700" opacity="0.6"/><circle cx="189" cy="201" r="3" fill="#FFD700" opacity="0.6"/><circle cx="152" cy="168" r="3" fill="#FFD700" opacity="0.6"/><circle cx="115" cy="135" r="3" fill="#FFD700" opacity="0.6"/><circle cx="278" cy="102" r="3" fill="#FFD700" opacity="0.6"/><circle cx="241" cy="269" r="3" fill="#FFD700" opacity="0.6"/><circle cx="204" cy="236" r="3" fill="#FFD700" opacity="0.6"/><circle cx="167" cy="203" r="3" fill="#FFD700" opacity="0.6"/><circle cx="130" cy="170" r="3" fill="#FFD700" opacity="0.6"/><circle cx="293" cy="137" r="3" fill="#FFD700" opacity="0.6"/>
 <g transform="translate(325, 15)">
-            <rect width="65" height="22" rx="4" fill="#4ECDC4" opacity="0.9"/>
-            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">UNCOMMON</text>
+            <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
+            <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
         </g>
         <g transform="translate(10, 15)">
             <rect width="45" height="22" rx="4" fill="#333" opacity="0.8"/>
