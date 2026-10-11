@@ -5295,6 +5295,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: special: mythical \u2192 particles"
+    },
+    {
+      "timestamp": "2026-10-11T03:02:48.049742",
+      "dna_hash": "d5072b8c305fa741",
+      "generation": 2,
+      "mutation_count": 189,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "nebula",
+        "background": "white",
+        "special": "particles"
+      },
+      "story": "Your monkey evolved! Changes: body_color: holographic \u2192 galaxy, background: sunset \u2192 white"
     }
   ]
 }
