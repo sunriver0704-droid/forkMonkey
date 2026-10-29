@@ -5583,6 +5583,22 @@
         "special": "particles"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-29T03:37:10.079452",
+      "dna_hash": "d7b2a8580736f687",
+      "generation": 2,
+      "mutation_count": 197,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "neutral",
+        "accessory": "bow",
+        "pattern": "flames",
+        "background": "white",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: pattern: lightning \u2192 flames, special: particles \u2192 aura"
     }
   ]
 }
