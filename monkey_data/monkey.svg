@@ -79,7 +79,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
-<ellipse cx="130" cy="130" rx="20" ry="15" fill="#FF69B4"/><ellipse cx="130" cy="130" rx="8" ry="8" fill="#FF1493"/><polygon points="130,115 145,130 130,145" fill="#FF69B4"/>
+
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
