@@ -5903,6 +5903,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: accessory: bow \u2192 none"
+    },
+    {
+      "timestamp": "2026-11-18T05:15:01.989324",
+      "dna_hash": "300d23238895d12d",
+      "generation": 2,
+      "mutation_count": 206,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "neutral",
+        "accessory": "none",
+        "pattern": "flames",
+        "background": "white",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: special: aura \u2192 energy"
     }
   ]
 }
