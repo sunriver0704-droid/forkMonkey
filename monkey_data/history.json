@@ -5951,6 +5951,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: pattern: flames \u2192 nebula"
+    },
+    {
+      "timestamp": "2026-11-21T04:53:38.149942",
+      "dna_hash": "fd7c51a894415a8c",
+      "generation": 2,
+      "mutation_count": 211,
+      "rarity_score": 46.666666666666664,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "curious",
+        "accessory": "none",
+        "pattern": "nebula",
+        "background": "white",
+        "special": "transcendent"
+      },
+      "story": "Your monkey evolved! Changes: special: energy \u2192 transcendent"
     }
   ]
 }
