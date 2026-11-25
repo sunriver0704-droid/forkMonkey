@@ -6015,6 +6015,22 @@
         "special": "transcendent"
       },
       "story": "Your monkey evolved! Changes: body_color: crystal \u2192 purple, face_expression: curious \u2192 neutral"
+    },
+    {
+      "timestamp": "2026-11-25T06:12:00.941970",
+      "dna_hash": "f861046fa51f46f6",
+      "generation": 2,
+      "mutation_count": 213,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "neutral",
+        "accessory": "none",
+        "pattern": "nebula",
+        "background": "white",
+        "special": "transcendent"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
